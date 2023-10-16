@@ -3,6 +3,11 @@ package n1ex05;
 import java.io.Serializable;
 
 public class SerExampleCar implements Serializable {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String brand;
 	private String model;
 	private int power;

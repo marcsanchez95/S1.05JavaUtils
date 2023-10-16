@@ -18,17 +18,18 @@ public class N1ex05 {
 		String consoleOutput = ListDirectoryContents5.readTextFile(outputFilePath);
 		System.out.println(consoleOutput);
 		
-		SerExampleCar ferrari = new SerExampleCar("Ferrari","Huracan",500);
 		//prova i implementacio de serializar i deserialitzar objectes.
+		SerExampleCar ferrari = new SerExampleCar("Ferrari","Huracan",500);		
 		serializeObject(ferrari, "C:\\Users\\marcs\\git\\S1.05JavaUtils\\S1.05JavaUtils\\src\\n1ex05\\ferrari.ser");
 		SerExampleCar deserializedFerrari = (SerExampleCar) deserializeObject("C:\\Users\\marcs\\git\\S1.05JavaUtils\\S1.05JavaUtils\\src\\n1ex05\\ferrari.ser");
-		System.out.println("Deserialized the car: "+deserializedFerrari.getBrand() +" "+ deserializedFerrari.getModel());
+		System.out.println("Deserialized car: "+deserializedFerrari.getBrand() +" "+ deserializedFerrari.getModel());
 	
 	}
-	   public static void serializeObject(Object object, String filePath) {
+	   public static void serializeObject(Object object, String filePath) {		  
 	        try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(filePath))) {
 	            outputStream.writeObject(object);
 	            System.out.println("Object serialized and saved to: " + filePath);
+	            
 	        } catch (IOException e) {
 	            e.printStackTrace();
 	        }
@@ -40,6 +41,7 @@ public class N1ex05 {
 				Object object = inputStream.readObject();
 				System.out.println("Object deserialized from: " + filePath);
 				return object;
+				
 			} catch (IOException | ClassNotFoundException e) {
 				e.printStackTrace();
 				return null;
