@@ -4,6 +4,6 @@ public class N1ex01 {
 
 	public static void main(String[] args) {
 		
-		DirectorySorter.DirectorySort("c:/");
+		ListDirectoryContents.DirectorySort("c:/");
 	}
 }

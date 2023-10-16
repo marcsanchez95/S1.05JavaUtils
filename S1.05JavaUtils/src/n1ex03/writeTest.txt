@@ -1,0 +1,28 @@
+D  pepe
+D  kiko
+  F  kikotexto.txt
+  D  pepe3
+  D  pepe2
+    F  pepetexto3.txt
+    F  pepeExcel2.xlsx
+D  pepe
+D  kiko
+  F  kikotexto.txt
+  D  pepe3
+  D  pepe2
+    F  pepetexto3.txt
+    F  pepeExcel2.xlsx
+D  pepe (Last Modified: 2023-10-14T15:12:42.0125474Z)
+D  kiko (Last Modified: 2023-10-14T10:14:29.7953715Z)
+  F  kikotexto.txt (Last Modified: 2023-10-14T10:14:26.9518402Z)
+  D  pepino (Last Modified: 2023-10-14T10:16:31.0995487Z)
+  D  Abduscan (Last Modified: 2023-10-14T10:16:14.6637916Z)
+    F  pepetexto3.txt (Last Modified: 2023-10-14T10:14:10.988667Z)
+    F  pepeExcel2.xlsx (Last Modified: 2023-10-14T10:16:20.470718Z)
+D  pepe (Last Modified: 2023-10-14T15:12:42.0125474Z)
+D  kiko (Last Modified: 2023-10-14T10:14:29.7953715Z)
+  F  kikotexto.txt (Last Modified: 2023-10-14T10:14:26.9518402Z)
+  D  pepino (Last Modified: 2023-10-14T10:16:31.0995487Z)
+  D  Abduscan (Last Modified: 2023-10-14T10:16:14.6637916Z)
+    F  pepetexto3.txt (Last Modified: 2023-10-14T10:14:10.988667Z)
+    F  pepeExcel2.xlsx (Last Modified: 2023-10-14T10:16:20.470718Z)

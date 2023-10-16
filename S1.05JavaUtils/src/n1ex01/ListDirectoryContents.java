@@ -3,11 +3,11 @@ package n1ex01;
 import java.io.File;
 import java.util.Arrays;
 
-public class DirectorySorter {
+public class ListDirectoryContents {
 
-	public static void DirectorySort(String mainDirectory) {
+	public static void DirectorySort(String Directory) {
 		
-		File directory = new File(mainDirectory);
+		File directory = new File(Directory);
 		String[] list = directory.list();
 		Arrays.sort(list);
 		

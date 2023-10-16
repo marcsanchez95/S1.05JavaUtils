@@ -1,0 +1,888 @@
+F  unins000.exe (Last Modified: 2021-01-30T21:36:41.4335589Z)
+F  unins000.dat (Last Modified: 2021-01-30T21:43:50.6341859Z)
+F  Medium.exe (Last Modified: 2021-01-28T14:03:54Z)
+F  Manifest_NonUFSFiles_Win64.txt (Last Modified: 2021-01-28T14:03:54Z)
+D  _CommonRedist (Last Modified: 2021-01-30T21:37:02.5914982Z)
+D  Medium (Last Modified: 2021-01-30T22:07:45.0578576Z)
+D  Engine (Last Modified: 2021-01-30T21:37:02.5855146Z)
+  D  vcredist (Last Modified: 2021-01-30T21:37:02.5914982Z)
+  D  Programs (Last Modified: 2021-01-30T21:37:02.5885066Z)
+  D  Plugins (Last Modified: 2021-01-30T21:37:02.5905019Z)
+  D  DirectX (Last Modified: 2021-01-30T21:37:02.5914982Z)
+  D  Content (Last Modified: 2021-01-30T21:37:02.5895058Z)
+  D  Config (Last Modified: 2021-01-30T23:25:36.8146051Z)
+  D  Binaries (Last Modified: 2021-01-30T21:37:02.5895058Z)
+  D  Binaries (Last Modified: 2021-01-30T21:37:02.5855146Z)
+    F  GFXSettings.ini (Last Modified: 2021-01-30T23:25:36.815602Z)
+    D  Wwise (Last Modified: 2021-01-30T21:37:02.5905019Z)
+    D  Win64 (Last Modified: 2021-01-30T21:43:34.466353Z)
+    D  Win64 (Last Modified: 2021-01-30T21:37:04.8763823Z)
+    D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5865117Z)
+    D  Paks (Last Modified: 2021-01-30T21:43:15.3409964Z)
+    D  OnlineSubsystemGOG (Last Modified: 2021-01-30T21:37:02.5905019Z)
+    D  Movies (Last Modified: 2021-01-30T21:37:07.7309812Z)
+    D  Jun2010 (Last Modified: 2021-01-30T21:43:48.5289804Z)
+    D  CrashReportClient (Last Modified: 2021-01-30T21:37:02.5885066Z)
+    D  2019 (Last Modified: 2021-01-30T21:43:48.7141949Z)
+      F  pakchunk50-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk4optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk4-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk3-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk2-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk1optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk100optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk100-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk1-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk0-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf.bak (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf (Last Modified: 2021-01-28T14:03:54Z)
+      F  dxupdate.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  dxdllreg_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  dsetup32.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  VC_redist.x86.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  VC_redist.x64.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  Oct2005_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Oct2005_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_d3dx9_31_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_d3dx9_31_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx9_40_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx9_40_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx10_40_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx10_40_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx9_36_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx9_36_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx10_36_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx10_36_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Microsoft Visual C++ 2019 x86.cmd (Last Modified: 2021-01-28T14:03:54Z)
+      F  Microsoft Visual C++ 2019 x64.cmd (Last Modified: 2021-01-28T14:03:54Z)
+      F  Medium-Win64-Shipping.pdb (Last Modified: 2021-01-28T14:03:54Z)
+      F  Medium-Win64-Shipping.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx9_41_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx9_41_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx10_41_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx10_41_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx9_37_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx9_37_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx10_37_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx10_37_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieB.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieAB.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieA.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovie.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuLoadingInitial.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LoadingScreen.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LoadingLoop.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LightFX.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx9_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx9_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx11_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx11_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx10_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx10_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dcsx_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dcsx_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_D3DCompiler_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_D3DCompiler_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2005_d3dx9_26_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2005_d3dx9_26_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx9_38_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx9_38_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx10_38_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx10_38_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx9_34_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx9_34_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx10_34_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx10_34_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Intro.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_d3dx9_29_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_d3dx9_29_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2005_d3dx9_24_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2005_d3dx9_24_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  FEB2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  FEB2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Dec2005_d3dx9_28_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Dec2005_d3dx9_28_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DXSETUP.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  DSETUP.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx9_32_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx9_32_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx10_00_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx10_00_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  CrashReportClient.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  CgSDK.x64_2017.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  C007.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  C003_51.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  C001_51.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx9_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx9_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx11_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx11_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx10_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx10_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dcsx_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dcsx_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_D3DCompiler_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_D3DCompiler_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx9_39_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx9_39_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx10_39_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx10_39_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2005_d3dx9_27_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2005_d3dx9_27_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_d3dx9_30_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_d3dx9_30_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_MDX1_x86_Archive.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_MDX1_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2005_d3dx9_25_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2005_d3dx9_25_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx9_35_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx9_35_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx10_35_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx10_35_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx9_33_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx9_33_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx10_33_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx10_33_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      D  Windows (Last Modified: 2021-01-30T21:37:02.5885066Z)
+      D  Vorbis (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5905019Z)
+      D  Steamworks (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  Source (Last Modified: 2021-01-30T21:37:02.5905019Z)
+      D  PhysX3 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  Ogg (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  NVIDIA (Last Modified: 2021-01-30T21:37:02.5865117Z)
+      D  DbgHelp (Last Modified: 2021-01-30T21:37:04.7188037Z)
+      D  Content (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        F  dbghelp.dll (Last Modified: 2021-01-28T14:03:54Z)
+        D  x64_vc150 (Last Modified: 2021-01-30T21:37:02.5914982Z)
+        D  XAudio2_9 (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5905019Z)
+        D  Steamv147 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  Paks (Last Modified: 2021-01-30T21:37:08.1197147Z)
+        D  NVaftermath (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  NGX (Last Modified: 2021-01-30T21:37:02.5865117Z)
+          F  CrashReportClient.pak (Last Modified: 2021-01-28T14:03:54Z)
+          D  x64 (Last Modified: 2021-01-30T21:37:04.7766493Z)
+          D  Win64 (Last Modified: 2021-01-30T21:59:09.9080862Z)
+          D  Win64 (Last Modified: 2021-01-30T21:37:04.7447345Z)
+          D  Win64 (Last Modified: 2021-01-30T21:37:04.7208263Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7756527Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7706772Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7457318Z)
+          D  Release (Last Modified: 2021-01-30T21:37:02.5914982Z)
+          D  GalaxySDK (Last Modified: 2021-01-30T21:37:02.5905019Z)
+            F  xaudio2_9redist.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  steam_emu.ini (Last Modified: 2021-01-28T06:44:48Z)
+            F  steam_api64.dll (Last Modified: 2021-01-28T06:44:48Z)
+            F  steam_api64.cdx (Last Modified: 2021-01-28T06:44:48Z)
+            F  nvngx_dlss.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libvorbisfile_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libvorbis_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libogg_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PxPvdSDK_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PxFoundation_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3Cooking_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3Common_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  NvCloth_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  GFSDK_Aftermath_Lib.x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  ApexFramework_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Legacy_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Destructible_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Clothing_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            D  bin (Last Modified: 2021-01-30T21:37:04.8285252Z)
+            D  Libraries (Last Modified: 2021-01-30T21:37:04.7796431Z)
+              F  MasteringSuite.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  Galaxy64.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkTremolo.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkToneGen.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkTimeStretch.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSynthOne.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkStereoDelay.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundSeedImpact.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundSeedAir.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundEngineDLL.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSineTone.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSilenceGenerator.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRouterMixer.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRoomVerb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRecorder.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkPitchShifter.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkPeakLimiter.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkParametricEQ.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkMatrixReverb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkHarmonizer.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkGuitarDistortion.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkGain.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkFlanger.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkExpander.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkDelay.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkConvolutionReverb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkCompressor.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkAudioInput.dll (Last Modified: 2021-01-28T14:03:54Z)
+F  unins000.exe (Last Modified: 2021-01-30T21:36:41.4335589Z)
+F  unins000.dat (Last Modified: 2021-01-30T21:43:50.6341859Z)
+F  Medium.exe (Last Modified: 2021-01-28T14:03:54Z)
+F  Manifest_NonUFSFiles_Win64.txt (Last Modified: 2021-01-28T14:03:54Z)
+D  _CommonRedist (Last Modified: 2021-01-30T21:37:02.5914982Z)
+D  Medium (Last Modified: 2021-01-30T22:07:45.0578576Z)
+D  Engine (Last Modified: 2021-01-30T21:37:02.5855146Z)
+  D  vcredist (Last Modified: 2021-01-30T21:37:02.5914982Z)
+  D  Programs (Last Modified: 2021-01-30T21:37:02.5885066Z)
+  D  Plugins (Last Modified: 2021-01-30T21:37:02.5905019Z)
+  D  DirectX (Last Modified: 2021-01-30T21:37:02.5914982Z)
+  D  Content (Last Modified: 2021-01-30T21:37:02.5895058Z)
+  D  Config (Last Modified: 2021-01-30T23:25:36.8146051Z)
+  D  Binaries (Last Modified: 2021-01-30T21:37:02.5895058Z)
+  D  Binaries (Last Modified: 2021-01-30T21:37:02.5855146Z)
+    F  GFXSettings.ini (Last Modified: 2021-01-30T23:25:36.815602Z)
+    D  Wwise (Last Modified: 2021-01-30T21:37:02.5905019Z)
+    D  Win64 (Last Modified: 2021-01-30T21:43:34.466353Z)
+    D  Win64 (Last Modified: 2021-01-30T21:37:04.8763823Z)
+    D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5865117Z)
+    D  Paks (Last Modified: 2021-01-30T21:43:15.3409964Z)
+    D  OnlineSubsystemGOG (Last Modified: 2021-01-30T21:37:02.5905019Z)
+    D  Movies (Last Modified: 2021-01-30T21:37:07.7309812Z)
+    D  Jun2010 (Last Modified: 2021-01-30T21:43:48.5289804Z)
+    D  CrashReportClient (Last Modified: 2021-01-30T21:37:02.5885066Z)
+    D  2019 (Last Modified: 2021-01-30T21:43:48.7141949Z)
+      F  pakchunk50-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk4optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk4-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk3-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk2-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk1optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk100optional-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk100-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk1-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  pakchunk0-WindowsNoEditor.pak (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf.bak (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf (Last Modified: 2021-01-28T14:03:54Z)
+      F  installscript.vdf (Last Modified: 2021-01-28T14:03:54Z)
+      F  dxupdate.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  dxdllreg_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  dsetup32.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  VC_redist.x86.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  VC_redist.x64.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  Oct2005_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Oct2005_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_d3dx9_31_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_d3dx9_31_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  OCT2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx9_40_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx9_40_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx10_40_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_d3dx10_40_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx9_36_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx9_36_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx10_36_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Nov2007_d3dx10_36_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  NOV2007_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Microsoft Visual C++ 2019 x86.cmd (Last Modified: 2021-01-28T14:03:54Z)
+      F  Microsoft Visual C++ 2019 x64.cmd (Last Modified: 2021-01-28T14:03:54Z)
+      F  Medium-Win64-Shipping.pdb (Last Modified: 2021-01-28T14:03:54Z)
+      F  Medium-Win64-Shipping.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx9_41_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx9_41_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx10_41_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_d3dx10_41_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2009_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx9_37_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx9_37_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx10_37_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_d3dx10_37_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Mar2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieB.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieAB.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovieA.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuMovie.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  MainMenuLoadingInitial.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LoadingScreen.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LoadingLoop.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  LightFX.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx9_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx9_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx11_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx11_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx10_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dx10_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dcsx_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_d3dcsx_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_D3DCompiler_43_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2010_D3DCompiler_43_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2005_d3dx9_26_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Jun2005_d3dx9_26_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx9_38_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx9_38_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx10_38_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_d3dx10_38_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2008_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx9_34_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx9_34_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx10_34_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_d3dx10_34_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  JUN2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Intro.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_X3DAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2010_X3DAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_d3dx9_29_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_d3dx9_29_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2005_d3dx9_24_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Feb2005_d3dx9_24_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  FEB2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  FEB2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Dec2005_d3dx9_28_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Dec2005_d3dx9_28_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DXSETUP.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  DSETUP.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx9_32_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx9_32_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx10_00_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_d3dx10_00_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  DEC2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  CrashReportClient.exe (Last Modified: 2021-01-28T14:03:54Z)
+      F  CgSDK.x64_2017.dll (Last Modified: 2021-01-28T14:03:54Z)
+      F  C007.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  C003_51.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  C001_51.mp4 (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx9_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx9_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx11_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx11_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx10_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dx10_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dcsx_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_d3dcsx_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_D3DCompiler_42_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2009_D3DCompiler_42_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx9_39_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx9_39_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx10_39_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_d3dx10_39_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XAudio_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XAudio_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2008_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2005_d3dx9_27_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Aug2005_d3dx9_27_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_d3dx9_30_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_d3dx9_30_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_MDX1_x86_Archive.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2006_MDX1_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2005_d3dx9_25_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  Apr2005_d3dx9_25_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx9_35_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx9_35_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx10_35_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_d3dx10_35_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  AUG2006_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_xinput_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_xinput_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx9_33_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx9_33_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx10_33_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_d3dx10_33_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_XACT_x86.cab (Last Modified: 2021-01-28T14:03:54Z)
+      F  APR2007_XACT_x64.cab (Last Modified: 2021-01-28T14:03:54Z)
+      D  Windows (Last Modified: 2021-01-30T21:37:02.5885066Z)
+      D  Vorbis (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5905019Z)
+      D  Steamworks (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  Source (Last Modified: 2021-01-30T21:37:02.5905019Z)
+      D  PhysX3 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  Ogg (Last Modified: 2021-01-30T21:37:02.5875091Z)
+      D  NVIDIA (Last Modified: 2021-01-30T21:37:02.5865117Z)
+      D  DbgHelp (Last Modified: 2021-01-30T21:37:04.7188037Z)
+      D  Content (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        F  dbghelp.dll (Last Modified: 2021-01-28T14:03:54Z)
+        D  x64_vc150 (Last Modified: 2021-01-30T21:37:02.5914982Z)
+        D  XAudio2_9 (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5885066Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  Win64 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  ThirdParty (Last Modified: 2021-01-30T21:37:02.5905019Z)
+        D  Steamv147 (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  Paks (Last Modified: 2021-01-30T21:37:08.1197147Z)
+        D  NVaftermath (Last Modified: 2021-01-30T21:37:02.5875091Z)
+        D  NGX (Last Modified: 2021-01-30T21:37:02.5865117Z)
+          F  CrashReportClient.pak (Last Modified: 2021-01-28T14:03:54Z)
+          D  x64 (Last Modified: 2021-01-30T21:37:04.7766493Z)
+          D  Win64 (Last Modified: 2021-01-30T21:59:09.9080862Z)
+          D  Win64 (Last Modified: 2021-01-30T21:37:04.7447345Z)
+          D  Win64 (Last Modified: 2021-01-30T21:37:04.7208263Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7756527Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7706772Z)
+          D  VS2015 (Last Modified: 2021-01-30T21:37:04.7457318Z)
+          D  Release (Last Modified: 2021-01-30T21:37:02.5914982Z)
+          D  GalaxySDK (Last Modified: 2021-01-30T21:37:02.5905019Z)
+            F  xaudio2_9redist.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  steam_emu.ini (Last Modified: 2021-01-28T06:44:48Z)
+            F  steam_api64.dll (Last Modified: 2021-01-28T06:44:48Z)
+            F  steam_api64.cdx (Last Modified: 2021-01-28T06:44:48Z)
+            F  nvngx_dlss.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libvorbisfile_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libvorbis_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  libogg_64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PxPvdSDK_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PxFoundation_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3Cooking_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  PhysX3Common_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  NvCloth_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  GFSDK_Aftermath_Lib.x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  ApexFramework_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Legacy_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Destructible_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            F  APEX_Clothing_x64.dll (Last Modified: 2021-01-28T14:03:54Z)
+            D  bin (Last Modified: 2021-01-30T21:37:04.8285252Z)
+            D  Libraries (Last Modified: 2021-01-30T21:37:04.7796431Z)
+              F  MasteringSuite.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  Galaxy64.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkTremolo.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkToneGen.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkTimeStretch.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSynthOne.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkStereoDelay.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundSeedImpact.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundSeedAir.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSoundEngineDLL.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSineTone.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkSilenceGenerator.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRouterMixer.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRoomVerb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkRecorder.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkPitchShifter.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkPeakLimiter.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkParametricEQ.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkMatrixReverb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkHarmonizer.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkGuitarDistortion.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkGain.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkFlanger.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkExpander.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkDelay.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkConvolutionReverb.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkCompressor.dll (Last Modified: 2021-01-28T14:03:54Z)
+              F  AkAudioInput.dll (Last Modified: 2021-01-28T14:03:54Z)
+F  unins000.exe
+F  unins000.dat
+F  Medium.exe
+F  Manifest_NonUFSFiles_Win64.txt
+D  _CommonRedist
+D  Medium
+D  Engine
+  D  vcredist
+  D  Programs
+  D  Plugins
+  D  DirectX
+  D  Content
+  D  Config
+  D  Binaries
+  D  Binaries
+    F  GFXSettings.ini
+    D  Wwise
+    D  Win64
+    D  Win64
+    D  ThirdParty
+    D  Paks
+    D  OnlineSubsystemGOG
+    D  Movies
+    D  Jun2010
+    D  CrashReportClient
+    D  2019
+      F  pakchunk50-WindowsNoEditor.pak
+      F  pakchunk4optional-WindowsNoEditor.pak
+      F  pakchunk4-WindowsNoEditor.pak
+      F  pakchunk3-WindowsNoEditor.pak
+      F  pakchunk2-WindowsNoEditor.pak
+      F  pakchunk1optional-WindowsNoEditor.pak
+      F  pakchunk100optional-WindowsNoEditor.pak
+      F  pakchunk100-WindowsNoEditor.pak
+      F  pakchunk1-WindowsNoEditor.pak
+      F  pakchunk0-WindowsNoEditor.pak
+      F  installscript.vdf.bak
+      F  installscript.vdf
+      F  installscript.vdf
+      F  dxupdate.cab
+      F  dxdllreg_x86.cab
+      F  dsetup32.dll
+      F  VC_redist.x86.exe
+      F  VC_redist.x64.exe
+      F  Oct2005_xinput_x86.cab
+      F  Oct2005_xinput_x64.cab
+      F  OCT2006_d3dx9_31_x86.cab
+      F  OCT2006_d3dx9_31_x64.cab
+      F  OCT2006_XACT_x86.cab
+      F  OCT2006_XACT_x64.cab
+      F  Nov2008_d3dx9_40_x86.cab
+      F  Nov2008_d3dx9_40_x64.cab
+      F  Nov2008_d3dx10_40_x86.cab
+      F  Nov2008_d3dx10_40_x64.cab
+      F  Nov2008_XAudio_x86.cab
+      F  Nov2008_XAudio_x64.cab
+      F  Nov2008_XACT_x86.cab
+      F  Nov2008_XACT_x64.cab
+      F  Nov2008_X3DAudio_x86.cab
+      F  Nov2008_X3DAudio_x64.cab
+      F  Nov2007_d3dx9_36_x86.cab
+      F  Nov2007_d3dx9_36_x64.cab
+      F  Nov2007_d3dx10_36_x86.cab
+      F  Nov2007_d3dx10_36_x64.cab
+      F  NOV2007_XACT_x86.cab
+      F  NOV2007_XACT_x64.cab
+      F  NOV2007_X3DAudio_x86.cab
+      F  NOV2007_X3DAudio_x64.cab
+      F  Microsoft Visual C++ 2019 x86.cmd
+      F  Microsoft Visual C++ 2019 x64.cmd
+      F  Medium-Win64-Shipping.pdb
+      F  Medium-Win64-Shipping.exe
+      F  Mar2009_d3dx9_41_x86.cab
+      F  Mar2009_d3dx9_41_x64.cab
+      F  Mar2009_d3dx10_41_x86.cab
+      F  Mar2009_d3dx10_41_x64.cab
+      F  Mar2009_XAudio_x86.cab
+      F  Mar2009_XAudio_x64.cab
+      F  Mar2009_XACT_x86.cab
+      F  Mar2009_XACT_x64.cab
+      F  Mar2009_X3DAudio_x86.cab
+      F  Mar2009_X3DAudio_x64.cab
+      F  Mar2008_d3dx9_37_x86.cab
+      F  Mar2008_d3dx9_37_x64.cab
+      F  Mar2008_d3dx10_37_x86.cab
+      F  Mar2008_d3dx10_37_x64.cab
+      F  Mar2008_XAudio_x86.cab
+      F  Mar2008_XAudio_x64.cab
+      F  Mar2008_XACT_x86.cab
+      F  Mar2008_XACT_x64.cab
+      F  Mar2008_X3DAudio_x86.cab
+      F  Mar2008_X3DAudio_x64.cab
+      F  MainMenuMovieB.mp4
+      F  MainMenuMovieAB.mp4
+      F  MainMenuMovieA.mp4
+      F  MainMenuMovie.mp4
+      F  MainMenuLoadingInitial.mp4
+      F  LoadingScreen.mp4
+      F  LoadingLoop.mp4
+      F  LightFX.dll
+      F  Jun2010_d3dx9_43_x86.cab
+      F  Jun2010_d3dx9_43_x64.cab
+      F  Jun2010_d3dx11_43_x86.cab
+      F  Jun2010_d3dx11_43_x64.cab
+      F  Jun2010_d3dx10_43_x86.cab
+      F  Jun2010_d3dx10_43_x64.cab
+      F  Jun2010_d3dcsx_43_x86.cab
+      F  Jun2010_d3dcsx_43_x64.cab
+      F  Jun2010_XAudio_x86.cab
+      F  Jun2010_XAudio_x64.cab
+      F  Jun2010_XACT_x86.cab
+      F  Jun2010_XACT_x64.cab
+      F  Jun2010_D3DCompiler_43_x86.cab
+      F  Jun2010_D3DCompiler_43_x64.cab
+      F  Jun2005_d3dx9_26_x86.cab
+      F  Jun2005_d3dx9_26_x64.cab
+      F  JUN2008_d3dx9_38_x86.cab
+      F  JUN2008_d3dx9_38_x64.cab
+      F  JUN2008_d3dx10_38_x86.cab
+      F  JUN2008_d3dx10_38_x64.cab
+      F  JUN2008_XAudio_x86.cab
+      F  JUN2008_XAudio_x64.cab
+      F  JUN2008_XACT_x86.cab
+      F  JUN2008_XACT_x64.cab
+      F  JUN2008_X3DAudio_x86.cab
+      F  JUN2008_X3DAudio_x64.cab
+      F  JUN2007_d3dx9_34_x86.cab
+      F  JUN2007_d3dx9_34_x64.cab
+      F  JUN2007_d3dx10_34_x86.cab
+      F  JUN2007_d3dx10_34_x64.cab
+      F  JUN2007_XACT_x86.cab
+      F  JUN2007_XACT_x64.cab
+      F  JUN2006_XACT_x86.cab
+      F  JUN2006_XACT_x64.cab
+      F  Intro.mp4
+      F  Feb2010_XAudio_x86.cab
+      F  Feb2010_XAudio_x64.cab
+      F  Feb2010_XACT_x86.cab
+      F  Feb2010_XACT_x64.cab
+      F  Feb2010_X3DAudio_x86.cab
+      F  Feb2010_X3DAudio_x64.cab
+      F  Feb2006_d3dx9_29_x86.cab
+      F  Feb2006_d3dx9_29_x64.cab
+      F  Feb2006_XACT_x86.cab
+      F  Feb2006_XACT_x64.cab
+      F  Feb2005_d3dx9_24_x86.cab
+      F  Feb2005_d3dx9_24_x64.cab
+      F  FEB2007_XACT_x86.cab
+      F  FEB2007_XACT_x64.cab
+      F  Dec2005_d3dx9_28_x86.cab
+      F  Dec2005_d3dx9_28_x64.cab
+      F  DXSETUP.exe
+      F  DSETUP.dll
+      F  DEC2006_d3dx9_32_x86.cab
+      F  DEC2006_d3dx9_32_x64.cab
+      F  DEC2006_d3dx10_00_x86.cab
+      F  DEC2006_d3dx10_00_x64.cab
+      F  DEC2006_XACT_x86.cab
+      F  DEC2006_XACT_x64.cab
+      F  CrashReportClient.exe
+      F  CgSDK.x64_2017.dll
+      F  C007.mp4
+      F  C003_51.mp4
+      F  C001_51.mp4
+      F  Aug2009_d3dx9_42_x86.cab
+      F  Aug2009_d3dx9_42_x64.cab
+      F  Aug2009_d3dx11_42_x86.cab
+      F  Aug2009_d3dx11_42_x64.cab
+      F  Aug2009_d3dx10_42_x86.cab
+      F  Aug2009_d3dx10_42_x64.cab
+      F  Aug2009_d3dcsx_42_x86.cab
+      F  Aug2009_d3dcsx_42_x64.cab
+      F  Aug2009_XAudio_x86.cab
+      F  Aug2009_XAudio_x64.cab
+      F  Aug2009_XACT_x86.cab
+      F  Aug2009_XACT_x64.cab
+      F  Aug2009_D3DCompiler_42_x86.cab
+      F  Aug2009_D3DCompiler_42_x64.cab
+      F  Aug2008_d3dx9_39_x86.cab
+      F  Aug2008_d3dx9_39_x64.cab
+      F  Aug2008_d3dx10_39_x86.cab
+      F  Aug2008_d3dx10_39_x64.cab
+      F  Aug2008_XAudio_x86.cab
+      F  Aug2008_XAudio_x64.cab
+      F  Aug2008_XACT_x86.cab
+      F  Aug2008_XACT_x64.cab
+      F  Aug2005_d3dx9_27_x86.cab
+      F  Aug2005_d3dx9_27_x64.cab
+      F  Apr2006_xinput_x86.cab
+      F  Apr2006_xinput_x64.cab
+      F  Apr2006_d3dx9_30_x86.cab
+      F  Apr2006_d3dx9_30_x64.cab
+      F  Apr2006_XACT_x86.cab
+      F  Apr2006_XACT_x64.cab
+      F  Apr2006_MDX1_x86_Archive.cab
+      F  Apr2006_MDX1_x86.cab
+      F  Apr2005_d3dx9_25_x86.cab
+      F  Apr2005_d3dx9_25_x64.cab
+      F  AUG2007_d3dx9_35_x86.cab
+      F  AUG2007_d3dx9_35_x64.cab
+      F  AUG2007_d3dx10_35_x86.cab
+      F  AUG2007_d3dx10_35_x64.cab
+      F  AUG2007_XACT_x86.cab
+      F  AUG2007_XACT_x64.cab
+      F  AUG2006_xinput_x86.cab
+      F  AUG2006_xinput_x64.cab
+      F  AUG2006_XACT_x86.cab
+      F  AUG2006_XACT_x64.cab
+      F  APR2007_xinput_x86.cab
+      F  APR2007_xinput_x64.cab
+      F  APR2007_d3dx9_33_x86.cab
+      F  APR2007_d3dx9_33_x64.cab
+      F  APR2007_d3dx10_33_x86.cab
+      F  APR2007_d3dx10_33_x64.cab
+      F  APR2007_XACT_x86.cab
+      F  APR2007_XACT_x64.cab
+      D  Windows
+      D  Vorbis
+      D  ThirdParty
+      D  Steamworks
+      D  Source
+      D  PhysX3
+      D  Ogg
+      D  NVIDIA
+      D  DbgHelp
+      D  Content
+        F  dbghelp.dll
+        D  x64_vc150
+        D  XAudio2_9
+        D  Win64
+        D  Win64
+        D  Win64
+        D  ThirdParty
+        D  Steamv147
+        D  Paks
+        D  NVaftermath
+        D  NGX
+          F  CrashReportClient.pak
+          D  x64
+          D  Win64
+          D  Win64
+          D  Win64
+          D  VS2015
+          D  VS2015
+          D  VS2015
+          D  Release
+          D  GalaxySDK
+            F  xaudio2_9redist.dll
+            F  steam_emu.ini
+            F  steam_api64.dll
+            F  steam_api64.cdx
+            F  nvngx_dlss.dll
+            F  libvorbisfile_64.dll
+            F  libvorbis_64.dll
+            F  libogg_64.dll
+            F  PxPvdSDK_x64.dll
+            F  PxFoundation_x64.dll
+            F  PhysX3_x64.dll
+            F  PhysX3Cooking_x64.dll
+            F  PhysX3Common_x64.dll
+            F  NvCloth_x64.dll
+            F  GFSDK_Aftermath_Lib.x64.dll
+            F  ApexFramework_x64.dll
+            F  APEX_Legacy_x64.dll
+            F  APEX_Destructible_x64.dll
+            F  APEX_Clothing_x64.dll
+            D  bin
+            D  Libraries
+              F  MasteringSuite.dll
+              F  Galaxy64.dll
+              F  AkTremolo.dll
+              F  AkToneGen.dll
+              F  AkTimeStretch.dll
+              F  AkSynthOne.dll
+              F  AkStereoDelay.dll
+              F  AkSoundSeedImpact.dll
+              F  AkSoundSeedAir.dll
+              F  AkSoundEngineDLL.dll
+              F  AkSineTone.dll
+              F  AkSilenceGenerator.dll
+              F  AkRouterMixer.dll
+              F  AkRoomVerb.dll
+              F  AkRecorder.dll
+              F  AkPitchShifter.dll
+              F  AkPeakLimiter.dll
+              F  AkParametricEQ.dll
+              F  AkMatrixReverb.dll
+              F  AkHarmonizer.dll
+              F  AkGuitarDistortion.dll
+              F  AkGain.dll
+              F  AkFlanger.dll
+              F  AkExpander.dll
+              F  AkDelay.dll
+              F  AkConvolutionReverb.dll
+              F  AkCompressor.dll
+              F  AkAudioInput.dll
