@@ -10,17 +10,19 @@ import java.io.ObjectOutputStream;
 public class N1ex05 {
 
 	public static void main(String[] args) {
-
+		//cambiar el directori per un valid.
 		ListDirectoryContents5.directorySorterRecursively(
 				"D:\\Games\\The Medium");
-
+		//cambiar el directori per un valid per guardar el archiu.
 		String outputFilePath = "C:\\Users\\marcs\\git\\S1.05JavaUtils\\S1.05JavaUtils\\src\\n1ex04\\pruebaLeer.txt";
 		String consoleOutput = ListDirectoryContents5.readTextFile(outputFilePath);
 		System.out.println(consoleOutput);
 		
 		//prova i implementacio de serializar i deserialitzar objectes.
-		SerExampleCar ferrari = new SerExampleCar("Ferrari","Huracan",500);		
+		SerExampleCar ferrari = new SerExampleCar("Ferrari","Huracan",500);	
+		//cambiar el directori per un valid per guardar el .ser.
 		serializeObject(ferrari, "C:\\Users\\marcs\\git\\S1.05JavaUtils\\S1.05JavaUtils\\src\\n1ex05\\ferrari.ser");
+		//cambiar el directori per el utilitzat al serialitzar el objecte.
 		SerExampleCar deserializedFerrari = (SerExampleCar) deserializeObject("C:\\Users\\marcs\\git\\S1.05JavaUtils\\S1.05JavaUtils\\src\\n1ex05\\ferrari.ser");
 		System.out.println("Deserialized car: "+deserializedFerrari.getBrand() +" "+ deserializedFerrari.getModel());
 	
