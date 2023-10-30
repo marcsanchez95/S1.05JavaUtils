@@ -20,12 +20,8 @@ public class ListDirectoryContents4 {
         listContentsRecursively(directory, 0);
     }
 
-    private static List<String> listContentsRecursively(Path directory, int depth) {
-        List<String> allArchives = new ArrayList<>();
-
+    private static void listContentsRecursively(Path directory, int depth) {
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(directory)) {
-            List<Path> subDirectories = new ArrayList<>();
-            
             for (Path entry : stream) {
                 StringBuilder result = new StringBuilder();
                 for (int i = 0; i < depth; i++) {
@@ -34,29 +30,21 @@ public class ListDirectoryContents4 {
 
                 if (Files.isDirectory(entry)) {
                     result.append("D  ");
-                    subDirectories.add(entry);
                 } else {
                     result.append("F  ");
                 }
 
                 result.append(entry.getFileName());
                 result.append(" (Last Modified: " + Files.getLastModifiedTime(entry) + ")");
-                allArchives.add(result.toString());
-            }
-         
-            allArchives.sort(new FileComparator());
-         
-            for (String archive : allArchives) {
-                System.out.println(archive);
-            }
-          
-            for (Path subDir : subDirectories) {
-                listContentsRecursively(subDir, depth + 1);
+                System.out.println(result.toString());
+
+                if (Files.isDirectory(entry)) {
+                    listContentsRecursively(entry, depth + 1);
+                }
             }
         } catch (IOException e) {
             System.out.println("An error occurred while listing the directory: " + e.getMessage());
         }
-        return allArchives;
     }
 
     public static void writeText(List<String> allArchives, String outputFile) {

@@ -14,17 +14,14 @@ import java.util.Comparator;
 import java.util.List;
 
 public class ListDirectoryContents3 {
-    public static void directorySorterRecursively(String inputDirectoryPath) {
+	
+    public static void directorySorterRecursively(String inputDirectoryPath, List<String> allArchives) {
         Path directory = Paths.get(inputDirectoryPath);
-        listContentsRecursively(directory, 0);
+        listContentsRecursively(directory, 0, allArchives);
     }
 
-    private static List<String> listContentsRecursively(Path directory, int depth) {
-        List<String> allArchives = new ArrayList<>();
-
+    private static void listContentsRecursively(Path directory, int depth, List<String> allArchives) {
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(directory)) {
-            List<Path> subDirectories = new ArrayList<>();
-            
             for (Path entry : stream) {
                 StringBuilder result = new StringBuilder();
                 for (int i = 0; i < depth; i++) {
@@ -33,41 +30,33 @@ public class ListDirectoryContents3 {
 
                 if (Files.isDirectory(entry)) {
                     result.append("D  ");
-                    subDirectories.add(entry);
                 } else {
                     result.append("F  ");
                 }
 
                 result.append(entry.getFileName());
-                result.append(" (Last Modified: " + Files.getLastModifiedTime(entry) + ")");
+                result.append(" (Last Modified: " + Files.getLastModifiedTime(entry) + ")");           
                 allArchives.add(result.toString());
-            }
-         
-            allArchives.sort(new FileComparator());
-         
-            for (String archive : allArchives) {
-                System.out.println(archive);
-            }
-          
-            for (Path subDir : subDirectories) {
-                listContentsRecursively(subDir, depth + 1);
+
+                if (Files.isDirectory(entry)) {
+                    listContentsRecursively(entry, depth + 1, allArchives);
+                }
             }
         } catch (IOException e) {
             System.out.println("An error occurred while listing the directory: " + e.getMessage());
         }
-        return allArchives;
     }
 
     public static void writeText(List<String> allArchives, String outputFile) {
-        try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputFile), StandardOpenOption.CREATE,
-                StandardOpenOption.APPEND)) {
-            System.out.println("Pathing content:");
+        try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputFile), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)) {
+            writer.write("Pathing content:");
+            writer.newLine();
             for (int i = allArchives.size() - 1; i >= 0; i--) {
                 String line = allArchives.get(i);
                 writer.write(line);
                 writer.newLine();
             }
-            System.out.println("The data was successfully written to the file");
+            System.out.println("The data was successfully written to the file: "+outputFile);
         } catch (IOException e) {
             System.out.println("An error occurred while writing to the file: " + e.getMessage());
         }
