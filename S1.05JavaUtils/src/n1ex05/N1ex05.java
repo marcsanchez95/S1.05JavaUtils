@@ -11,14 +11,14 @@ import java.io.ObjectOutputStream;
 public class N1ex05 {
 
 	public static void main(String[] args) {		
-		// prova i implementacio de serializar i deserialitzar objectes.
+		
 		SerExampleCar ferrari = new SerExampleCar("Ferrari", "Huracan", 500);
 		
-		// cambiar el directori per un valid per guardar el .ser.
-		String absolutePath = new File(".\\src\\n1ex05\\ferrari.ser").getAbsolutePath();
+	
+		String absolutePath = new File("./src/n1ex05/ferrari.ser").getAbsolutePath();
 		serializeObject(ferrari, absolutePath);
 		
-		// cambiar el directori per el utilitzat al serialitzar el objecte.
+		
 		SerExampleCar deserializedFerrari = (SerExampleCar) deserializeObject(absolutePath);
 		System.out.println("Deserialized car: " + deserializedFerrari.getBrand() + " " + deserializedFerrari.getModel());
 
