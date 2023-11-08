@@ -8,7 +8,8 @@ public class N1ex03 {
 
 	public static void main(String[] args) {
 		String absolutePathSort = new File("").getAbsolutePath();
-		String outputFile = "./src/n1ex03/result.txt";
+		System.out.println(absolutePathSort);
+		String outputFile = absolutePathSort + "./src/n1ex03/result.txt";
 
 		List<String> allArchives = new ArrayList<>();
 

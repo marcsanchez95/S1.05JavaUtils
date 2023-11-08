@@ -14,8 +14,9 @@ public class N1ex05 {
 		
 		SerExampleCar ferrari = new SerExampleCar("Ferrari", "Huracan", 500);
 		
-	
-		String absolutePath = new File("./src/n1ex05/ferrari.ser").getAbsolutePath();
+		String absolutePathSort = new File("").getAbsolutePath();
+		
+		String absolutePath = absolutePathSort + "./src/n1ex05/ferrari.ser";
 		serializeObject(ferrari, absolutePath);
 		
 		
